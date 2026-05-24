@@ -1,0 +1,11 @@
+# Algorithms & Data Structures
+
+The main purpose of this repository is to deeply understand different algorithms and data structure topics. All the topics will be implemented in python.
+
+Each topic will have its own separate folder with related explanations and code
+files so it will be easy to understand particular topic.
+
+This is very beginning, so it's very likely that the structure of this repository will change over the time.
+
+Feel free to contribute by doing or suggesting improvements.
+
