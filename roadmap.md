@@ -1,3 +1,6 @@
+Introduction
+* Algorithms
+
 Fundamentals
 * Time Complexity
 * Space Complexity
