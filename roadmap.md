@@ -1,5 +1,6 @@
 Introduction
 * Algorithms
+* Data Structures
 
 Fundamentals
 * Time Complexity
